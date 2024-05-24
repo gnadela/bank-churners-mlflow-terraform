@@ -13,7 +13,8 @@ import mlflow
 import mlflow.sklearn
 
 # Set MLflow tracking URI
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+# mlflow.set_tracking_uri("http://127.0.0.1:5000")
+mlflow.set_tracking_uri("http://34.243.99.237:5000")
 
 # Load data
 def load_data(filepath):
