@@ -26,7 +26,6 @@ It aims to deploy ML Flow in AWS Cloud using Terraform.
 └── README.md
 ```
 
-
 ## 🛠 Pre-requisites
 This project requires **MLFlow** and **Terraform** to be installed and running.
 
