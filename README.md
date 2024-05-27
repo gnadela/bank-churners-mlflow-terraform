@@ -58,7 +58,7 @@ This project requires **MLFlow** and **Terraform** to be installed and running.
 
 4. **Update Python Script**
     
-    Use a text editor to open the Python script ***'mlflow-experiment.py'***.
+    Edit the Python script ***'mlflow-experiment.py'***.
     Set the ***mlflow.set_tracking_uri*** to point to your AWS EC2 instance's MLflow server.
 
     ![](assets/Screenshot-python-script.png)
