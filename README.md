@@ -22,7 +22,8 @@ It aims to deploy ML Flow in AWS Cloud using Terraform.
 │   └── user_data.sh.tpl
 ├── assets/
 │   ├── Rand_forest.ipynb (from CoVictor)
-│   └── Screenshot-mlflow.png
+│   ├── Screenshot-mlflow.png
+│   └── Screenshot-python-script.png
 ├── data/
 │   └── BankChurners.csv
 ├── mlflow-experiment.py
